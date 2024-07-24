@@ -1,5 +1,7 @@
 The goal with this [Next.js](https://nextjs.org/) project is to experiment with infinite scroll. 
 
+I used [Ryan Mambou's Medium blog](https://medium.com/@ryanmambou/how-to-implement-infinite-scroll-in-nextjs-without-button-99d8ce886985) as a base.
+
 ## Getting Started
 
 First, run the development server:
